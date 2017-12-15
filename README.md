@@ -1,7 +1,6 @@
-Bitcoin ABC
+Bitcoin ?
 ===========
 
-#Bitcoin ?
 https://bitcoin?.org
 
 #What is Bitcoin?
